@@ -59,7 +59,7 @@ All of this is implemented in `train_gpt_improved.py`.
   * 12 layers, 6 heads, 768-dim embedding
   * Vocabulary padded to 50304 (multiple of 128)
 
-* **32K context length**
+* **context length**
 
   * `sequence_length = 32 * 1024`
   * Rotary position embeddings on Q/K
