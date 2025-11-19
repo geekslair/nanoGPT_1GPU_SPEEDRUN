@@ -11,11 +11,11 @@ hf_hub_download(repo_id="kjj0/fineweb10B-gpt2", filename=fname,
 
 ---
 
-## Speedrun Leaderboard 🏁
+## Speedrun 🏁
 
 **From-scratch NanoGPT / GPT-2 124M training** *single*-GPU, consumer hardware, while still reaching a solid language-modeling loss.
 
-**Rules (for leaderboard submissions):**
+**THE GOAL:**
 
 1. **Achieve validation loss ≤ 3.29** on a GPT-2 124M(-ish) model trained from scratch on **FineWeb** using a NanoGPT-style setup.
 2. Use **single-GPU, consumer hardware** (e.g., 4090 / 3090 / 4080, etc.).
